@@ -3,3 +3,4 @@ Release/*
 config/*
 .launches/*
 /.metadata/
+*/Debug/*

@@ -3,4 +3,5 @@ Release/*
 config/*
 .launches/*
 /.metadata/
-*/Debug/*
+Debug/*
+.jxbrowser-data/*
